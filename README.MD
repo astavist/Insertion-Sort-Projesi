@@ -18,7 +18,7 @@ Insertion Sort Projesi
     -Worst Case: O(n^2)
     -Best Case: O(n)
 
-4-) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+4-) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?  Yazınız.
 
     -Avarage Case
 
